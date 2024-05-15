@@ -6,7 +6,8 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "comics": "node fetchComics.js run"
+    "cli": "node cli/index.js run",
+    "comics": "node cli/index.js comics"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,7 @@
     "@11ty/eleventy-fetch": "^4.0.1",
     "cheerio": "^1.0.0-rc.12",
     "comicgeeks": "file:comicgeeks",
+    "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2"
   }
 }
