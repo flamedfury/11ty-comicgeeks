@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "@inquirer/prompts": "^3.3.0",
+        "commander": "^11.1.0"
+    },
+    "dependencies": {
+        "moment": "^2.30.1",
+        "open": "^10.0.3",
+        "sharp": "^0.33.2"
+    }
+}

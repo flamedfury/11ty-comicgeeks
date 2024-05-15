@@ -1,10 +1,10 @@
+import dotenv from 'dotenv'
 import fs from 'fs'
 import {
     CollectionTypes,
     fetchCollection,
     SortTypes,
 } from '../comicgeeks/dist/index.js'
-import dotenv from 'dotenv'
 dotenv.config()
 
 export default async (__siteroot) => {
@@ -110,7 +110,7 @@ export default async (__siteroot) => {
       if (issue.name.includes('Women\'s History')) lists.womensHistory.issues.push(issue)
     })
 
-    fs.writeFileSync(`${__siteroot}/src/_data/catalog/comics.json`, JSON.stringify({
+    fs.writeFileSync(`${__siteroot}/src/_data/comics.json`, JSON.stringify({
       data: Object.values(keyedSeries).filter(series => series.issues.length + series.trades.length > 1),
       single: Object.values(keyedSeries).filter(series => series.issues.length + series.trades.length === 1).map(s => {
         return {

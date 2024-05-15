@@ -1,4 +1,4 @@
-const { CollectionTypes, fetchCollection, fetchUser, SortTypes } = require('../../comicgeeks');
+const { CollectionTypes, fetchCollection, fetchUser, SortTypes } = require('../../cli/comicgeeks');
 const { AssetCache } = require('@11ty/eleventy-fetch');
 
 module.exports = async function () {
