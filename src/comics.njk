@@ -12,11 +12,18 @@ updated: 2023-05-29
 <p>This is my comic collection...</p>
 
 <div class="grid mt-l-xl" style="--grid-min-item-size: 12rem">
-    {% for comic in comics.series %}
+    {% for comic in (comics.data.concat(comics.single)) %}
     <div class="comics">
         <img src="{{ comic.cover }}" alt="Cover Image for {{ comic.name }}" load="lazy">
         <p class="comics-title">{{ comic.name }}</p>
         <p class="comics-date">{{ comic.date }}</p>
+        <details>
+            <summary>{{ comic.issues.length }} issue{{ 's' if comic.issues.length != 1 }}</summary>
+            <p><em>Probably not using the right info in this forloop.</em></p>
+            {% for issue in comic.issues %}
+                <p>{{ issue.name }}</p>
+            {% endfor %}
+        </details>
         <p class="comics-collection"><a href="{{ comic.url }}">View issues</a></p>
     </div>
     {% endfor %}

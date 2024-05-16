@@ -2,6 +2,7 @@
     "type": "module",
     "devDependencies": {
         "@inquirer/prompts": "^3.3.0",
+        "@inquirer/select": "^2.3.3",
         "commander": "^11.1.0"
     },
     "dependencies": {
