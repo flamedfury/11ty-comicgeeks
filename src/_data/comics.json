@@ -1,12 +1,78 @@
 {
   "data": [
     {
+      "name": "Cable",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/171642",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6849624.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6849624.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6849624.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Cable",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7887123.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7887123.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7887123.jpg",
+          "date_start": "2020",
+          "date_end": "2020"
+        },
+        {
+          "name": "Cable",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6849624.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6849624.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6849624.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": []
+    },
+    {
+      "name": "Giant-Size X-Men",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/174244",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1645744.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1645744.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1645744.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Giant-Size X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7719880.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7719880.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7719880.jpg",
+          "date_start": "1975",
+          "date_end": "1975"
+        },
+        {
+          "name": "Giant-Size X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1645744.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1645744.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1645744.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": []
+    },
+    {
       "name": "Marauders",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/153694",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4805505.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4805505.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4805505.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7603535.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7603535.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7603535.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022 - 2023",
       "date_start": null,
       "date_end": "2022 - 2023",
@@ -15,9 +81,9 @@
         {
           "name": "Marauders",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2133852.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2133852.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2133852.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8089388.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8089388.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8089388.jpg",
           "date_start": "2019",
           "date_end": "2019"
         },
@@ -37,9 +103,9 @@
       "name": "X-Factor",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145680",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6885948.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6885948.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6885948.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5920593.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5920593.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5920593.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020 - 2021",
       "date_start": null,
       "date_end": "2020 - 2021",
@@ -48,18 +114,18 @@
         {
           "name": "X-Factor",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4425091.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4425091.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4425091.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9054600.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9054600.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9054600.jpg",
           "date_start": "1985",
           "date_end": "1985"
         },
         {
           "name": "X-Factor",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6885948.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6885948.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6885948.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1445782.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1445782.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1445782.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -69,32 +135,50 @@
     {
       "name": "X-Men",
       "publisher": "Marvel Comics",
-      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/151159",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1653478.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1653478.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1653478.jpg",
-      "date": "Marvel Comics\n                        \n                 ·  2021 - 2024",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/174841",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8035293.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8035293.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8035293.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024 - Present",
       "date_start": null,
-      "date_end": "2021 - 2024",
+      "date_end": "2024 - Present",
       "trades": [],
       "issues": [
         {
           "name": "X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8984607.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8984607.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8984607.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8881174.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8881174.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8881174.jpg",
+          "date_start": "2010",
+          "date_end": "2010"
+        },
+        {
+          "name": "X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8415283.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8415283.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8415283.jpg",
           "date_start": "2019",
           "date_end": "2019"
         },
         {
           "name": "X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1653478.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1653478.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1653478.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9694386.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9694386.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9694386.jpg",
           "date_start": "2021",
           "date_end": "2021"
+        },
+        {
+          "name": "X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8035293.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8035293.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8035293.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
         }
       ],
       "omnis": []
@@ -138,9 +222,9 @@
       "name": "A.X.E.: Judgment Day",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/155889",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2941311.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2941311.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2941311.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7781632.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7781632.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7781632.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022",
       "date_start": null,
       "date_end": "2022",
@@ -149,9 +233,9 @@
         {
           "name": "A.X.E.: Judgment Day",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2941311.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2941311.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2941311.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7781632.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7781632.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7781632.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -160,9 +244,9 @@
       "entry": {
         "name": "A.X.E.: Judgment Day",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2941311.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2941311.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2941311.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7781632.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7781632.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7781632.jpg",
         "date_start": "2022",
         "date_end": "2022"
       }
@@ -270,9 +354,9 @@
       "name": "Astonishing Iceman",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166383",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5354104.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354104.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5354104.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4036745.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4036745.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4036745.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2023",
       "date_start": null,
       "date_end": "2023",
@@ -281,9 +365,9 @@
         {
           "name": "Astonishing Iceman",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354104.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354104.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5354104.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9077272.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9077272.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9077272.jpg",
           "date_start": "2023",
           "date_end": "2023"
         }
@@ -292,53 +376,20 @@
       "entry": {
         "name": "Astonishing Iceman",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354104.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5354104.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5354104.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9077272.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9077272.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9077272.jpg",
         "date_start": "2023",
         "date_end": "2023"
-      }
-    },
-    {
-      "name": "Cable",
-      "publisher": "Marvel Comics",
-      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145390",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2077485.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2077485.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2077485.jpg",
-      "date": "Marvel Comics\n                        \n                 ·  2020 - 2021",
-      "date_start": null,
-      "date_end": "2020 - 2021",
-      "trades": [],
-      "issues": [
-        {
-          "name": "Cable",
-          "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3646703.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3646703.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3646703.jpg",
-          "date_start": "2020",
-          "date_end": "2020"
-        }
-      ],
-      "omnis": [],
-      "entry": {
-        "name": "Cable",
-        "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3646703.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3646703.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3646703.jpg",
-        "date_start": "2020",
-        "date_end": "2020"
       }
     },
     {
       "name": "Children of the Atom",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145829",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3807450.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3807450.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3807450.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9470410.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9470410.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9470410.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2021",
       "date_start": null,
       "date_end": "2021",
@@ -347,9 +398,9 @@
         {
           "name": "Children of the Atom",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3807450.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3807450.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3807450.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9470410.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9470410.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9470410.jpg",
           "date_start": "2021",
           "date_end": "2021"
         }
@@ -358,9 +409,9 @@
       "entry": {
         "name": "Children of the Atom",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3807450.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3807450.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3807450.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9470410.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9470410.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9470410.jpg",
         "date_start": "2021",
         "date_end": "2021"
       }
@@ -402,9 +453,9 @@
       "name": "Dark X-Men",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166385",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8514505.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8514505.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8514505.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2093737.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093737.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2093737.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2023",
       "date_start": null,
       "date_end": "2023",
@@ -413,9 +464,9 @@
         {
           "name": "Dark X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8514505.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8514505.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8514505.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093737.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093737.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2093737.jpg",
           "date_start": "2023",
           "date_end": "2023"
         }
@@ -424,9 +475,9 @@
       "entry": {
         "name": "Dark X-Men",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8514505.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8514505.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8514505.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093737.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2093737.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2093737.jpg",
         "date_start": "2023",
         "date_end": "2023"
       }
@@ -435,9 +486,9 @@
       "name": "Dead X-Men",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/171579",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2760926.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2760926.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2760926.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1269357.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1269357.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1269357.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2024",
       "date_start": null,
       "date_end": "2024",
@@ -446,9 +497,9 @@
         {
           "name": "Dead X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2760926.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2760926.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2760926.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5540377.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5540377.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5540377.jpg",
           "date_start": "2024",
           "date_end": "2024"
         }
@@ -457,9 +508,42 @@
       "entry": {
         "name": "Dead X-Men",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2760926.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2760926.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2760926.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5540377.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5540377.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5540377.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
+      }
+    },
+    {
+      "name": "Doom",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/173905",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5236905.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5236905.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5236905.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Doom",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5236905.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5236905.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5236905.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Doom",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5236905.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5236905.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5236905.jpg",
         "date_start": "2024",
         "date_end": "2024"
       }
@@ -468,9 +552,9 @@
       "name": "Empyre: X-Men",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/146189",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7568712.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7568712.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7568712.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8490505.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8490505.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8490505.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020",
       "date_start": null,
       "date_end": "2020",
@@ -479,9 +563,9 @@
         {
           "name": "Empyre: X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7568712.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7568712.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7568712.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6545250.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6545250.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6545250.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -490,9 +574,9 @@
       "entry": {
         "name": "Empyre: X-Men",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7568712.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7568712.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7568712.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6545250.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6545250.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6545250.jpg",
         "date_start": "2020",
         "date_end": "2020"
       }
@@ -501,9 +585,9 @@
       "name": "Excalibur",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/143655",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7980798.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7980798.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7980798.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4428735.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4428735.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4428735.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2019 - 2021",
       "date_start": null,
       "date_end": "2019 - 2021",
@@ -512,9 +596,9 @@
         {
           "name": "Excalibur",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7980798.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7980798.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7980798.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1816410.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1816410.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1816410.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -523,9 +607,9 @@
       "entry": {
         "name": "Excalibur",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7980798.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7980798.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7980798.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1816410.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1816410.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1816410.jpg",
         "date_start": "2019",
         "date_end": "2019"
       }
@@ -534,9 +618,9 @@
       "name": "Fall of the House of X",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/170891",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4961780.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4961780.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4961780.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5850485.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850485.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5850485.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2024",
       "date_start": null,
       "date_end": "2024",
@@ -545,9 +629,9 @@
         {
           "name": "Fall of the House of X",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4961780.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4961780.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4961780.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850485.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850485.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5850485.jpg",
           "date_start": "2024",
           "date_end": "2024"
         }
@@ -556,9 +640,9 @@
       "entry": {
         "name": "Fall of the House of X",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4961780.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4961780.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4961780.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850485.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5850485.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5850485.jpg",
         "date_start": "2024",
         "date_end": "2024"
       }
@@ -567,9 +651,9 @@
       "name": "Fallen Angels",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/143657",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8396362.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8396362.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8396362.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3134619.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3134619.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3134619.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2019 - 2020",
       "date_start": null,
       "date_end": "2019 - 2020",
@@ -578,9 +662,9 @@
         {
           "name": "Fallen Angels",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9496679.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9496679.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9496679.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3134619.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3134619.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3134619.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -589,9 +673,9 @@
       "entry": {
         "name": "Fallen Angels",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9496679.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9496679.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9496679.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3134619.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3134619.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3134619.jpg",
         "date_start": "2019",
         "date_end": "2019"
       }
@@ -660,6 +744,39 @@
         "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3683931.jpg",
         "date_start": "2022",
         "date_end": "2022"
+      }
+    },
+    {
+      "name": "Free Comic Book Day 2024: Blood Hunt / X-Men",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/172184",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9971599.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971599.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9971599.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Free Comic Book Day 2024: Blood Hunt / X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971599.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971599.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9971599.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Free Comic Book Day 2024: Blood Hunt / X-Men",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971599.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9971599.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9971599.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
       }
     },
     {
@@ -861,6 +978,39 @@
       }
     },
     {
+      "name": "Gun Honey: Collision Course",
+      "publisher": "Titan Books",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/174445",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6834988.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6834988.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6834988.jpg",
+      "date": "Titan Books\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Gun Honey: Collision Course",
+          "publisher": "Titan Books",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6834988.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6834988.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6834988.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Gun Honey: Collision Course",
+        "publisher": "Titan Books",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6834988.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6834988.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6834988.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
+      }
+    },
+    {
       "name": "Hellfire Gala",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/151227",
@@ -897,9 +1047,9 @@
       "name": "Hellions",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145288",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9792491.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9792491.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9792491.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2248969.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2248969.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2248969.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020 - 2021",
       "date_start": null,
       "date_end": "2020 - 2021",
@@ -908,9 +1058,9 @@
         {
           "name": "Hellions",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3977803.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3977803.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3977803.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2248969.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2248969.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2248969.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -919,9 +1069,9 @@
       "entry": {
         "name": "Hellions",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3977803.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3977803.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3977803.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2248969.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2248969.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2248969.jpg",
         "date_start": "2020",
         "date_end": "2020"
       }
@@ -930,9 +1080,9 @@
       "name": "House of X",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/141932",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5604042.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5604042.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5604042.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5751434.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5751434.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5751434.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2019",
       "date_start": null,
       "date_end": "2019",
@@ -941,9 +1091,9 @@
         {
           "name": "House of X",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5604042.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5604042.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5604042.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5247981.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5247981.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5247981.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -952,9 +1102,9 @@
       "entry": {
         "name": "House of X",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5604042.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5604042.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5604042.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5247981.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5247981.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5247981.jpg",
         "date_start": "2019",
         "date_end": "2019"
       }
@@ -996,9 +1146,9 @@
       "name": "Immortal X-Men",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/154830",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5603440.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5603440.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5603440.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6109216.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109216.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6109216.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022 - 2023",
       "date_start": null,
       "date_end": "2022 - 2023",
@@ -1007,9 +1157,9 @@
         {
           "name": "Immortal X-Men",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5603440.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5603440.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5603440.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109216.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109216.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6109216.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -1018,9 +1168,9 @@
       "entry": {
         "name": "Immortal X-Men",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5603440.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5603440.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5603440.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109216.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6109216.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6109216.jpg",
         "date_start": "2022",
         "date_end": "2022"
       }
@@ -1062,9 +1212,9 @@
       "name": "Legion of X",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/154831",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2234725.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2234725.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2234725.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2352617.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2352617.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2352617.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022 - 2023",
       "date_start": null,
       "date_end": "2022 - 2023",
@@ -1073,9 +1223,9 @@
         {
           "name": "Legion of X",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2234725.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2234725.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2234725.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2352617.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2352617.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2352617.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -1084,20 +1234,86 @@
       "entry": {
         "name": "Legion of X",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2234725.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2234725.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2234725.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2352617.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2352617.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2352617.jpg",
         "date_start": "2022",
         "date_end": "2022"
+      }
+    },
+    {
+      "name": "Magneto",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166751",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9842538.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9842538.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9842538.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2023",
+      "date_start": null,
+      "date_end": "2023",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Magneto",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9842538.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9842538.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9842538.jpg",
+          "date_start": "2023",
+          "date_end": "2023"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Magneto",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9842538.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9842538.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9842538.jpg",
+        "date_start": "2023",
+        "date_end": "2023"
+      }
+    },
+    {
+      "name": "Marvel Age",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166721",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7645141.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7645141.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7645141.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2023",
+      "date_start": null,
+      "date_end": "2023",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Marvel Age",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7645141.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7645141.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7645141.jpg",
+          "date_start": "2023",
+          "date_end": "2023"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Marvel Age",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7645141.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7645141.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7645141.jpg",
+        "date_start": "2023",
+        "date_end": "2023"
       }
     },
     {
       "name": "New Mutants",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/143660",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7836856.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7836856.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7836856.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1899547.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1899547.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1899547.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2019 - 2022",
       "date_start": null,
       "date_end": "2019 - 2022",
@@ -1106,9 +1322,9 @@
         {
           "name": "New Mutants",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7836856.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7836856.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7836856.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2148794.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2148794.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2148794.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -1117,9 +1333,9 @@
       "entry": {
         "name": "New Mutants",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7836856.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7836856.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7836856.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2148794.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2148794.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2148794.jpg",
         "date_start": "2019",
         "date_end": "2019"
       }
@@ -1139,9 +1355,9 @@
         {
           "name": "New Mutants: Lethal Legion",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5037819.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5037819.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5037819.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6195107.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6195107.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6195107.jpg",
           "date_start": "2023",
           "date_end": "2023"
         }
@@ -1150,20 +1366,53 @@
       "entry": {
         "name": "New Mutants: Lethal Legion",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5037819.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5037819.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5037819.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6195107.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6195107.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6195107.jpg",
         "date_start": "2023",
         "date_end": "2023"
+      }
+    },
+    {
+      "name": "New X-Men",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/111279",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9331476.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9331476.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9331476.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2001 - 2004",
+      "date_start": null,
+      "date_end": "2001 - 2004",
+      "trades": [],
+      "issues": [
+        {
+          "name": "New X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9331476.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9331476.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9331476.jpg",
+          "date_start": "2001",
+          "date_end": "2001"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "New X-Men",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9331476.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9331476.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9331476.jpg",
+        "date_start": "2001",
+        "date_end": "2001"
       }
     },
     {
       "name": "Nightcrawlers",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/162118",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3395973.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395973.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3395973.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5363464.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5363464.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5363464.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2023",
       "date_start": null,
       "date_end": "2023",
@@ -1172,9 +1421,9 @@
         {
           "name": "Nightcrawlers",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395973.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395973.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3395973.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5363464.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5363464.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5363464.jpg",
           "date_start": "2023",
           "date_end": "2023"
         }
@@ -1183,9 +1432,9 @@
       "entry": {
         "name": "Nightcrawlers",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395973.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3395973.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3395973.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5363464.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5363464.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5363464.jpg",
         "date_start": "2023",
         "date_end": "2023"
       }
@@ -1227,9 +1476,9 @@
       "name": "Powers of X",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/141931",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5740816.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5740816.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5740816.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4517621.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4517621.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4517621.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2019",
       "date_start": null,
       "date_end": "2019",
@@ -1238,9 +1487,9 @@
         {
           "name": "Powers of X",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5740816.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5740816.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5740816.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4517621.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4517621.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4517621.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -1249,9 +1498,9 @@
       "entry": {
         "name": "Powers of X",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5740816.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5740816.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5740816.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4517621.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4517621.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4517621.jpg",
         "date_start": "2019",
         "date_end": "2019"
       }
@@ -1260,9 +1509,9 @@
       "name": "Realm of X",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166386",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5263297.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5263297.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5263297.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2546349.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2546349.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2546349.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2023",
       "date_start": null,
       "date_end": "2023",
@@ -1326,9 +1575,9 @@
       "name": "S.W.O.R.D.",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/148924",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1497559.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1497559.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1497559.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6346972.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6346972.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6346972.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020 - 2021",
       "date_start": null,
       "date_end": "2020 - 2021",
@@ -1337,9 +1586,9 @@
         {
           "name": "S.W.O.R.D.",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6346972.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6346972.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6346972.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3289814.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3289814.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3289814.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -1348,9 +1597,9 @@
       "entry": {
         "name": "S.W.O.R.D.",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6346972.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6346972.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6346972.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3289814.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3289814.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3289814.jpg",
         "date_start": "2020",
         "date_end": "2020"
       }
@@ -1455,12 +1704,45 @@
       }
     },
     {
+      "name": "Storm",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/163839",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1754073.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754073.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1754073.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2023",
+      "date_start": null,
+      "date_end": "2023",
+      "trades": [],
+      "issues": [
+        {
+          "name": "Storm",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754073.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754073.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1754073.jpg",
+          "date_start": "2023",
+          "date_end": "2023"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "Storm",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754073.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1754073.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1754073.jpg",
+        "date_start": "2023",
+        "date_end": "2023"
+      }
+    },
+    {
       "name": "Storm & The Brotherhood of Mutants",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/162116",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4351356.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4351356.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4351356.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3618296.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3618296.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3618296.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2023",
       "date_start": null,
       "date_end": "2023",
@@ -1469,9 +1751,9 @@
         {
           "name": "Storm & The Brotherhood of Mutants",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2209211.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2209211.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2209211.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3618296.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3618296.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3618296.jpg",
           "date_start": "2023",
           "date_end": "2023"
         }
@@ -1480,9 +1762,9 @@
       "entry": {
         "name": "Storm & The Brotherhood of Mutants",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2209211.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2209211.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2209211.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3618296.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3618296.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3618296.jpg",
         "date_start": "2023",
         "date_end": "2023"
       }
@@ -1557,9 +1839,9 @@
       "name": "Wolverine",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145093",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5981577.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5981577.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5981577.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3404747.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3404747.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3404747.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020 - 2024",
       "date_start": null,
       "date_end": "2020 - 2024",
@@ -1568,9 +1850,9 @@
         {
           "name": "Wolverine",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6817809.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6817809.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6817809.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6450270.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6450270.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6450270.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -1579,9 +1861,9 @@
       "entry": {
         "name": "Wolverine",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6817809.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6817809.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6817809.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6450270.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6450270.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6450270.jpg",
         "date_start": "2020",
         "date_end": "2020"
       }
@@ -1590,9 +1872,9 @@
       "name": "X Deaths of Wolverine",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/153043",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6093469.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6093469.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6093469.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-6044521.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6044521.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6044521.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022",
       "date_start": null,
       "date_end": "2022",
@@ -1601,9 +1883,9 @@
         {
           "name": "X Deaths of Wolverine",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6093469.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6093469.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6093469.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6044521.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6044521.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6044521.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -1612,9 +1894,9 @@
       "entry": {
         "name": "X Deaths of Wolverine",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6093469.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6093469.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6093469.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6044521.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-6044521.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-6044521.jpg",
         "date_start": "2022",
         "date_end": "2022"
       }
@@ -1623,9 +1905,9 @@
       "name": "X Lives of Wolverine",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/153042",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7431166.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7431166.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7431166.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-1572189.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1572189.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1572189.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022",
       "date_start": null,
       "date_end": "2022",
@@ -1634,9 +1916,9 @@
         {
           "name": "X Lives of Wolverine",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7431166.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7431166.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7431166.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1572189.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1572189.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1572189.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -1645,9 +1927,9 @@
       "entry": {
         "name": "X Lives of Wolverine",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7431166.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7431166.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7431166.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1572189.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-1572189.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-1572189.jpg",
         "date_start": "2022",
         "date_end": "2022"
       }
@@ -1788,9 +2070,9 @@
       "name": "X-Corp",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/150605",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3900338.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3900338.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3900338.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9148394.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148394.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9148394.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2021",
       "date_start": null,
       "date_end": "2021",
@@ -1799,9 +2081,9 @@
         {
           "name": "X-Corp",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3900338.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3900338.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3900338.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148394.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148394.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9148394.jpg",
           "date_start": "2021",
           "date_end": "2021"
         }
@@ -1810,9 +2092,9 @@
       "entry": {
         "name": "X-Corp",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3900338.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3900338.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3900338.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148394.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9148394.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9148394.jpg",
         "date_start": "2021",
         "date_end": "2021"
       }
@@ -1832,9 +2114,9 @@
         {
           "name": "X-Force",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5259175.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5259175.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5259175.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2781495.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2781495.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2781495.jpg",
           "date_start": "2019",
           "date_end": "2019"
         }
@@ -1843,20 +2125,119 @@
       "entry": {
         "name": "X-Force",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5259175.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5259175.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5259175.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2781495.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2781495.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2781495.jpg",
         "date_start": "2019",
         "date_end": "2019"
+      }
+    },
+    {
+      "name": "X-Force: Killshot Anniversary Special",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/152877",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4006980.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4006980.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4006980.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2021",
+      "date_start": null,
+      "date_end": "2021",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Force: Killshot Anniversary Special",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4006980.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4006980.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4006980.jpg",
+          "date_start": "2021",
+          "date_end": "2021"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Force: Killshot Anniversary Special",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4006980.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4006980.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4006980.jpg",
+        "date_start": "2021",
+        "date_end": "2021"
+      }
+    },
+    {
+      "name": "The X-Men",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/108378",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8416721.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8416721.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8416721.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  1963 - 1981",
+      "date_start": null,
+      "date_end": "1963 - 1981",
+      "trades": [],
+      "issues": [
+        {
+          "name": "The X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8416721.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8416721.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8416721.jpg",
+          "date_start": "1963",
+          "date_end": "1963"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "The X-Men",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8416721.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8416721.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8416721.jpg",
+        "date_start": "1963",
+        "date_end": "1963"
+      }
+    },
+    {
+      "name": "X-Men '97",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/172948",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8864479.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8864479.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8864479.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men '97",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7066129.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7066129.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7066129.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men '97",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7066129.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7066129.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7066129.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
       }
     },
     {
       "name": "X-Men / Fantastic Four",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/145091",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7089105.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7089105.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7089105.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2545790.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545790.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2545790.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2020",
       "date_start": null,
       "date_end": "2020",
@@ -1865,9 +2246,9 @@
         {
           "name": "X-Men / Fantastic Four",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7089105.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7089105.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7089105.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545790.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545790.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2545790.jpg",
           "date_start": "2020",
           "date_end": "2020"
         }
@@ -1876,11 +2257,44 @@
       "entry": {
         "name": "X-Men / Fantastic Four",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7089105.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7089105.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7089105.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545790.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2545790.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2545790.jpg",
         "date_start": "2020",
         "date_end": "2020"
+      }
+    },
+    {
+      "name": "X-Men Unlimited",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/115024",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3647442.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3647442.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3647442.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  1993 - 2003",
+      "date_start": null,
+      "date_end": "1993 - 2003",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men Unlimited",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3647442.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3647442.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3647442.jpg",
+          "date_start": "1993",
+          "date_end": "1993"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men Unlimited",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3647442.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3647442.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3647442.jpg",
+        "date_start": "1993",
+        "date_end": "1993"
       }
     },
     {
@@ -2016,6 +2430,105 @@
       }
     },
     {
+      "name": "X-Men: Blood Hunt – Magik",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/174253",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4316159.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4316159.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4316159.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men: Blood Hunt – Magik",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4316159.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4316159.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4316159.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men: Blood Hunt – Magik",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4316159.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4316159.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4316159.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
+      }
+    },
+    {
+      "name": "X-Men: Days of Future Past – Doomsday",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/166421",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4530488.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530488.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4530488.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2023",
+      "date_start": null,
+      "date_end": "2023",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men: Days of Future Past – Doomsday",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530488.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530488.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4530488.jpg",
+          "date_start": "2023",
+          "date_end": "2023"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men: Days of Future Past – Doomsday",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530488.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4530488.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4530488.jpg",
+        "date_start": "2023",
+        "date_end": "2023"
+      }
+    },
+    {
+      "name": "X-Men: Forever",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/171951",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-7455516.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7455516.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7455516.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men: Forever",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7455516.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7455516.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7455516.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men: Forever",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7455516.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-7455516.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-7455516.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
+      }
+    },
+    {
       "name": "X-Men: Hellfire Gala - Immortal",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/162058",
@@ -2049,12 +2562,45 @@
       }
     },
     {
+      "name": "X-Men: Hellfire Gala 2023",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/165861",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3485748.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485748.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3485748.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2023",
+      "date_start": null,
+      "date_end": "2023",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men: Hellfire Gala 2023",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485748.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485748.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3485748.jpg",
+          "date_start": "2023",
+          "date_end": "2023"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men: Hellfire Gala 2023",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485748.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3485748.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3485748.jpg",
+        "date_start": "2023",
+        "date_end": "2023"
+      }
+    },
+    {
       "name": "X-Men: Red",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/154828",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4630440.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630440.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4630440.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-2963628.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963628.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2963628.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022 - 2023",
       "date_start": null,
       "date_end": "2022 - 2023",
@@ -2063,9 +2609,9 @@
         {
           "name": "X-Men: Red",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630440.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630440.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4630440.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963628.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963628.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2963628.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -2074,9 +2620,9 @@
       "entry": {
         "name": "X-Men: Red",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630440.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4630440.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4630440.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963628.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-2963628.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-2963628.jpg",
         "date_start": "2022",
         "date_end": "2022"
       }
@@ -2085,9 +2631,9 @@
       "name": "X-Men: The Trial of Magneto",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/151468",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5337890.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5337890.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5337890.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-5109835.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5109835.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5109835.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2021",
       "date_start": null,
       "date_end": "2021",
@@ -2096,9 +2642,9 @@
         {
           "name": "X-Men: The Trial of Magneto",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5337890.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5337890.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5337890.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5109835.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5109835.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5109835.jpg",
           "date_start": "2021",
           "date_end": "2021"
         }
@@ -2107,20 +2653,53 @@
       "entry": {
         "name": "X-Men: The Trial of Magneto",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5337890.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5337890.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5337890.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5109835.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-5109835.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-5109835.jpg",
         "date_start": "2021",
         "date_end": "2021"
+      }
+    },
+    {
+      "name": "X-Men: The Wedding Special",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/174266",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-4753500.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4753500.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4753500.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2024",
+      "date_start": null,
+      "date_end": "2024",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Men: The Wedding Special",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4753500.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4753500.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4753500.jpg",
+          "date_start": "2024",
+          "date_end": "2024"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Men: The Wedding Special",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4753500.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-4753500.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-4753500.jpg",
+        "date_start": "2024",
+        "date_end": "2024"
       }
     },
     {
       "name": "X-Terminators",
       "publisher": "Marvel Comics",
       "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/157355",
-      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-8462964.jpg",
-      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8462964.jpg",
-      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8462964.jpg",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-3143211.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3143211.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3143211.jpg",
       "date": "Marvel Comics\n                        \n                 ·  2022 - 2023",
       "date_start": null,
       "date_end": "2022 - 2023",
@@ -2129,9 +2708,9 @@
         {
           "name": "X-Terminators",
           "publisher": "Marvel Comics",
-          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8462964.jpg",
-          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8462964.jpg",
-          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8462964.jpg",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3143211.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3143211.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3143211.jpg",
           "date_start": "2022",
           "date_end": "2022"
         }
@@ -2140,11 +2719,44 @@
       "entry": {
         "name": "X-Terminators",
         "publisher": "Marvel Comics",
-        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8462964.jpg",
-        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-8462964.jpg",
-        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-8462964.jpg",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3143211.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-3143211.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-3143211.jpg",
         "date_start": "2022",
         "date_end": "2022"
+      }
+    },
+    {
+      "name": "X-Treme X-Men",
+      "publisher": "Marvel Comics",
+      "url": "https://leagueofcomicgeeks.com/profile/ketylust/collection/114957",
+      "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/large-9291924.jpg",
+      "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9291924.jpg",
+      "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9291924.jpg",
+      "date": "Marvel Comics\n                        \n                 ·  2001 - 2004",
+      "date_start": null,
+      "date_end": "2001 - 2004",
+      "trades": [],
+      "issues": [
+        {
+          "name": "X-Treme X-Men",
+          "publisher": "Marvel Comics",
+          "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9291924.jpg",
+          "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9291924.jpg",
+          "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9291924.jpg",
+          "date_start": "2001",
+          "date_end": "2001"
+        }
+      ],
+      "omnis": [],
+      "entry": {
+        "name": "X-Treme X-Men",
+        "publisher": "Marvel Comics",
+        "cover": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9291924.jpg",
+        "cover_medium": "https://s3.amazonaws.com/comicgeeks/comics/covers/medium-9291924.jpg",
+        "cover_small": "https://s3.amazonaws.com/comicgeeks/comics/covers/small-9291924.jpg",
+        "date_start": "2001",
+        "date_end": "2001"
       }
     }
   ],
@@ -2184,7 +2796,7 @@
   ],
   "counts": {
     "trades": 0,
-    "issues": 68,
+    "issues": 90,
     "omnis": 0
   }
 }

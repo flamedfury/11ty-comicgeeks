@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-fetch": "^4.0.1",
+    "@inquirer/select": "^2.4.7",
     "cheerio": "^1.0.0-rc.12",
     "comicgeeks": "file:comicgeeks",
     "dotenv": "^16.4.5",
